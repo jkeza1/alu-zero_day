@@ -1,1 +1,2 @@
 #!/bash/best
+#!/bin/bash\necho "Best" 
